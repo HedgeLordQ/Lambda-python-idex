@@ -1,0 +1,9 @@
+setup.cfg
+shortid/__init__.py
+shortid/alphabet.py
+shortid/encoder.py
+shortid.egg-info/PKG-INFO
+shortid.egg-info/SOURCES.txt
+shortid.egg-info/dependency_links.txt
+shortid.egg-info/top_level.txt
+test/test_shortid.py

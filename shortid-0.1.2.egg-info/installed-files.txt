@@ -1,0 +1,10 @@
+../shortid/alphabet.py
+../shortid/__init__.py
+../shortid/encoder.py
+../shortid/__pycache__/alphabet.cpython-36.pyc
+../shortid/__pycache__/__init__.cpython-36.pyc
+../shortid/__pycache__/encoder.cpython-36.pyc
+top_level.txt
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
